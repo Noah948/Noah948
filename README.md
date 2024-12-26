@@ -4,7 +4,7 @@
 I'm a passionate **Software Developer** with strong **problem-solving skills** and a love for **gaming** and **traveling**. I have experience managing workloads efficiently by dividing tasks and working collaboratively.
 
 ## Technical Skills
-- **Programming Languages**: Python (with libraries like Django), SQL, and basics of Machine Learning.
+- **Programming Languages**: Python (with libraries like Django), Java, and Javascript.
 - **Web Development**: Proficient in **HTML**, **CSS**, **JavaScript**, and frameworks like React and Vite.
 - **MERN Stack**: Currently building projects using the MERN stack, including visually appealing styling and animations.
 - **Tools and Frameworks**: Knowledge of web development tools and frameworks from my internship and projects.
